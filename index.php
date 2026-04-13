@@ -8,7 +8,7 @@
 <h2>Register Form</h2>
 
 <form action="process.php" method="POST">
-    Name: <br>
+    Full Name: <br>
     <input type="text" name="name"><br><br>
 
     Email: <br>
